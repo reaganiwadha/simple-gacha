@@ -1,0 +1,30 @@
+{
+  "name": "gacha-l",
+  "version": "1.0.0",
+  "description": "A gacha utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reaganiwadha/simple-gacha.git"
+  },
+  "keywords": [
+    "gacha",
+    "rpg"
+  ],
+  "author": "reaganiwadha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reaganiwadha/simple-gacha/issues"
+  },
+  "homepage": "https://github.com/reaganiwadha/simple-gacha#readme",
+  "devDependencies": {
+    "faker": "^4.1.0",
+    "mocha": "^8.0.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
