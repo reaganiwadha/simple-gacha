@@ -1,7 +1,7 @@
 {
   "name": "gacha-l",
   "version": "1.0.0",
-  "description": "A gacha utility",
+  "description": "A very simple gacha function that picks an element based off a loot table",
   "main": "index.js",
   "scripts": {
     "test": "mocha"

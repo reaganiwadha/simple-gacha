@@ -1,5 +1,5 @@
 # simple-gacha
-A very simple gacha function that picks an element based off a lootTable
+A very simple gacha function that picks an element based off a loot table.
 
 ## Example
 ```javascript
