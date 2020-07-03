@@ -2,7 +2,7 @@ const assert = require('assert')
 const gacha = require('../lib')
 
 const faker = require('faker')
-const _ = require('lodash')
+const lrandom = require('lodash.random')
 
 const items = require('./samples/items.json')
 const single = require('./samples/single.json')
@@ -17,7 +17,7 @@ describe('simple', function () {
     for (var i = 0; i < 10; i++) {
       data.push({
         name: faker.name.findName(),
-        weight: _.random(10)
+        weight: lrandom(10)
       })
     }
   })
