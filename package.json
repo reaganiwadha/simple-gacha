@@ -1,6 +1,6 @@
 {
   "name": "simple-gacha",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "A very simple gacha function that picks an element based off a loot table",
   "main": "index.js",
   "scripts": {
